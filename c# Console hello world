@@ -1,0 +1,8 @@
+using System.Windows;
+
+namespace gibtest
+
+public partial class sayHi
+{
+   Console.Writeline("hi");
+}
