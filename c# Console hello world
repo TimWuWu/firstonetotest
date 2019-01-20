@@ -5,4 +5,6 @@ namespace gibtest
 public partial class sayHi
 {
    Console.Writeline("hi");
+   Console.Writeline("Is this in branch or master?");
+   Console.Readline();
 }
